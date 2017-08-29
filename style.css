@@ -1,0 +1,51 @@
+body{
+  background-color: #427F44;
+  font-family: Verdana;
+}
+li{
+  list-style: none;
+}
+.container{
+  height: auto;
+  width: 80%;
+  margin: auto;
+}
+.ppdiv{
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  margin-top: 50px;
+}
+.pp{
+  margin: auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+}
+.icons{
+  height: auto;
+  width: 80%;
+  margin: auto;
+}
+.selam{
+  color: white;
+  margin-bottom: 10px;
+  text-align: center;
+}
+table{
+  margin: auto;
+}
+.info{
+  margin: auto;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+td{
+  float: left;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.github{
+  margin-left: 0px;
+}
