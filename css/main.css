@@ -143,11 +143,7 @@ a.nav-link{
   }
 
 footer {
-    padding: 50px 0;
-    padding-top: 50px;
-    padding-right: 0px;
-    padding-bottom: 50px;
-    padding-left: 0px;
+    padding: 25px 0;
     font-family: 'Lora', serif;
     background: black;
     color: white;
