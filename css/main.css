@@ -153,14 +153,13 @@ footer {
 
 .logo{
     color: white;
-    font-family: Cabin,'Helvetica Neue',Helvetica,Arial,sans-serif;
-    font-weight: bold;
-    font-size: 25px;
+    font-family: 'Suez One', serif;
+    font-size: 40px;
 }
 
 .logo:hover{
-    color: #1d9b6c;
-    font-family: Cabin,'Helvetica Neue',Helvetica,Arial,sans-seri
+    color: #1d9b6c !important;
+    font-family: 'Suez One', serif;
 }
 
 .nav-link:hover{
