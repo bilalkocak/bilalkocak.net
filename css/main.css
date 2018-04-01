@@ -121,6 +121,10 @@ a.nav-link{
   #social{
     color: white;
     background: url('../images/bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
   }
   #social i:hover{
     color: #1d9b6c;
