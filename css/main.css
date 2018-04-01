@@ -1,5 +1,7 @@
 html,
 body,
+
+
 #cover{
     height: 100%;
 }
@@ -73,6 +75,10 @@ a.nav-link{
     background: 0 0;
 }
 
+section{
+    height: 100%;
+}
+
 .font-down:hover{
     color: white;
     background:rgba(255,255,255,.1)
@@ -119,6 +125,7 @@ a.nav-link{
   }
 
   #social{
+      height: 85%;
     color: white;
     background: url('../images/bg.jpg') no-repeat center center fixed;
     background-size: cover;
@@ -147,11 +154,13 @@ a.nav-link{
   }
 
 footer {
+    height: 15%;
     padding: 25px 0;
     font-family: 'Lora', serif;
     background: black;
     color: white;
     font-weight: bold;
+    position
 }
 
 
